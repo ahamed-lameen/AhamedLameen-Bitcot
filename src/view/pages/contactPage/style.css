@@ -1,0 +1,52 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 16/06/2023
+**/
+
+.layout-container {
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 24px;
+    background-color: #FFFFFF;
+    padding: 10px 0 1px 0;
+    border: 1px solid #000;
+}
+.add-icon {
+    margin: 0 0 0 10px;
+}
+.row-fixed {
+    display: inline-flex;
+}
+.cell-w75 {
+    width: 75px;
+}
+.cell-w203 {
+    width: 110px;
+}
+.cell-w225 {
+    width: 265px;
+}
+.file-icon {
+    font-size: 36px;
+    color: #D9D9D9;
+    margin: 5px 4px 0 0;
+}
+.edit-icon {
+    font-size: 13px;
+    margin: 1px 0 0 25px;
+}
+.editing-icon {
+    color: #848484;
+    margin: 10px 0 0 0;
+}
+.delete-icon {
+    margin-left: 25px;
+}
+.label-id {
+    margin: 10px 0 0 20px;
+}
